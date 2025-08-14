@@ -1,0 +1,32 @@
+[
+  {
+    "orderId": "A",
+    "city": "Giza",
+    "zoneHint": "Dokki",
+    "address": "x",
+    "paymentType": "COD",
+    "productType": "fragile",
+    "weight": 3,
+    "deadline": "2025-08-12 18:00"
+  },
+  {
+    "orderId": "B",
+    "city": "Giza",
+    "zoneHint": "Dokki",
+    "address": "x",
+    "paymentType": "COD",
+    "productType": "standard",
+    "weight": 2,
+    "deadline": "2025-08-12 18:00"
+  },
+  {
+    "orderId": "C",
+    "city": "Giza",
+    "zoneHint": "Dokki",
+    "address": "x",
+    "paymentType": "Prepaid",
+    "productType": "standard",
+    "weight": 6,
+    "deadline": "2025-08-12 18:00"
+  }
+]

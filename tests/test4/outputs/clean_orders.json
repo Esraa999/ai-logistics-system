@@ -1,0 +1,34 @@
+{
+  "orders": [
+    {
+      "orderId": "X-1",
+      "city": "6th of October",
+      "zoneHint": "El Montazah",
+      "address": "st. 1",
+      "paymentType": "COD",
+      "productType": "standard",
+      "weight": 1.0,
+      "deadline": "2025-08-12 10:00"
+    },
+    {
+      "orderId": "X-2",
+      "city": "6th of October",
+      "zoneHint": "El Montazah",
+      "address": "st. 2",
+      "paymentType": "Prepaid",
+      "productType": "fragile",
+      "weight": 2.0,
+      "deadline": "2025-08-12 11:00"
+    },
+    {
+      "orderId": "X-3",
+      "city": "6th of October",
+      "zoneHint": "El Montazah",
+      "address": "st. 3",
+      "paymentType": "COD",
+      "productType": "standard",
+      "weight": 1.0,
+      "deadline": "2025-08-12 12:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "assignments": [
+    {
+      "orderId": "X-1",
+      "courierId": "Weevo"
+    },
+    {
+      "orderId": "X-2",
+      "courierId": "Weevo"
+    },
+    {
+      "orderId": "X-3",
+      "courierId": "Weevo"
+    }
+  ],
+  "unassigned": [],
+  "capacityUsage": [
+    {
+      "courierId": "Bosta",
+      "totalWeight": 0
+    },
+    {
+      "courierId": "Weevo",
+      "totalWeight": 4
+    }
+  ]
+}

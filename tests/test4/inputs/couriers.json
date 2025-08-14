@@ -1,0 +1,18 @@
+[
+  {
+    "courierId": "Weevo",
+    "zonesCovered": ["6th of October", "El Montazah"],
+    "acceptsCOD": true,
+    "exclusions": [],
+    "dailyCapacity": 10,
+    "priority": 1
+  },
+  {
+    "courierId": "Bosta",
+    "zonesCovered": ["6th of October"],
+    "acceptsCOD": true,
+    "exclusions": ["fragile"],
+    "dailyCapacity": 10,
+    "priority": 2
+  }
+]

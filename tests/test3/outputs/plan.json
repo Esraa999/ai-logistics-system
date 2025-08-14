@@ -1,0 +1,19 @@
+{
+  "assignments": [
+    {
+      "orderId": "ORD-002",
+      "courierId": "Weevo"
+    }
+  ],
+  "unassigned": [],
+  "capacityUsage": [
+    {
+      "courierId": "Bosta",
+      "totalWeight": 0
+    },
+    {
+      "courierId": "Weevo",
+      "totalWeight": 3
+    }
+  ]
+}
